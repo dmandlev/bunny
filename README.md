@@ -1,5 +1,7 @@
 # bunny
 
+![bunny](img/bunny.png)
+
 the new trade way which is distributed all across the internet
 
 # License
