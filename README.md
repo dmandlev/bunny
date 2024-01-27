@@ -4,6 +4,12 @@
 
 the new trade way which is distributed all across the internet
 
+# Artwork links
+
+* https://openclipart.org/detail/308750/speed-icon-rabbit
+* https://openclipart.org/detail/131821/direct-action-rabbit-with-circles
+* https://openclipart.org/detail/131815/direct-action-rabbit-with-star
+
 # License
 
 the new trade way which is distributed all across the internet
