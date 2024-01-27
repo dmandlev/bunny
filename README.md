@@ -1,6 +1,6 @@
 # bunny
 
-![bunny](img/RedStarDirectActionRabbit.svg)
+![bunny](img/RedStarDirectActionRabbit.png width="129" height="122")
 
 the new trade way which is distributed all across the internet
 
